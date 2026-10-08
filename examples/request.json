@@ -1,0 +1,20 @@
+{
+  "certificate": {
+    "title": "Certificate of Completion",
+    "course_name": "Advanced Python: Concurrency & Async Programming",
+    "issuer_name": "Acme Academy",
+    "issue_date": "2026-10-08",
+    "description": "Awarded for completing 40 hours of hands-on coursework and a capstone project."
+  },
+  "recipients": [
+    { "name": "Ada Lovelace", "email": "ada@example.com" },
+    { "name": "Alan Turing", "email": "alan@example.com" },
+    { "name": "Zoë Ñúñez", "email": "zoe@example.com" },
+    { "name": "Grace Hopper", "email": "grace@example.com" },
+    { "name": "", "email": "blank.name@example.com" },
+    { "name": "Bad Email", "email": "not-an-email" },
+    { "name": "Alan Turing (again)", "email": "ALAN@example.com" },
+    { "name": "李雷", "email": "li.lei@example.com" }
+  ],
+  "allow_partial": true
+}
